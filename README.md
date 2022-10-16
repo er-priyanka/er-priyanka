@@ -2,7 +2,7 @@
 ### Aspiring Full Stack Web Developer
 
 
-- 🌱 I’m currently learning React, NodeJS, Express, MongoDB, and Data Structures & Algorithms
+- 🌱 I’m currently learning MERN Stack and Data Structures & Algorithms
 - 📫 How to reach me shahanepriyankas01@gmail.com
 
 ## Languages and Tools
