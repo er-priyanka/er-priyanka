@@ -31,8 +31,9 @@
 
 <br />
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=er-priyanka&show_icons=true&locale=en" alt="er-priyanka" />
-    &nbsp; &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er-priyanka&" alt="er-priyanka" />
+  
 </p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er-priyanka&" alt="er-priyanka" /> </p>
 
 
 
