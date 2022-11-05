@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shahanepriyankas01@gmail.com**
 
-- 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/1BrfFaqYC1AdFkT648qR7OeutZHXU7yY5/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a target="blank" href="https://drive.google.com/file/d/1BrfFaqYC1AdFkT648qR7OeutZHXU7yY5/view?usp=sharing">Resume</a>
 <!-- - [Resume]() -->
 
 <h3 align="left">Connect with me:</h3>
