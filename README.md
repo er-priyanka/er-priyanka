@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanka Shahane</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 
 
-- 🌱 I’m currently learning **MERN Stack and Data Structures & Algorithms**
+- 🌱 **MERN Stack and Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://er-priyanka.github.io/](https://er-priyanka.github.io/)
 
